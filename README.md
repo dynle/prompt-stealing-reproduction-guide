@@ -5,12 +5,16 @@
 - Doyoon Lee, Mobile Computing Lab, Osaka University (33E23033)
 - Rami Naeem, Mobile Computing Lab, Osaka University (33E24035)
 
-## Links
+## Original Paper and Repository
 
 - [USENIX Security 2024 Conference](https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue)
 - [Paper](https://www.usenix.org/system/files/usenixsecurity24-shen-xinyue.pdf)
 - [Github](https://github.com/verazuo/prompt-stealing-attack)
 
+## Modified & Extended Repositories
+
+- [paper-reproduction-prompt-stealing-attack](https://github.com/dynle/paper-reproduction-prompt-stealing-attack)
+- [paper-reproduction-stable-diffusion](https://github.com/dynle/paper-reproduction-stable-diffusion)
 ## The Target Result
 
 Below is the table from [Prompt Stealing Attacks Against Text-to-Image Generation Models](https://www.usenix.org/system/files/usenixsecurity24-shen-xinyue.pdf) that we aim to reproduce. We reproduce the last row in the table which quantitatively shows the performance of promptStealer.
