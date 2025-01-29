@@ -11,7 +11,7 @@
 - [Paper](https://www.usenix.org/system/files/usenixsecurity24-shen-xinyue.pdf)
 - [Github](https://github.com/verazuo/prompt-stealing-attack)
 
-## Modified & Extended Repositories
+## Modified & Extended Repositories (Our Version)
 
 - [paper-reproduction-prompt-stealing-attack](https://github.com/dynle/paper-reproduction-prompt-stealing-attack)
 - [paper-reproduction-stable-diffusion](https://github.com/dynle/paper-reproduction-stable-diffusion)
